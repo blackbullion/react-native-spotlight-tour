@@ -13,7 +13,7 @@
     "build": "turbo build",
     "check": "turbo check && yarn lint",
     "compile": "turbo compile",
-    "docs": "yarn workspace react-native-spotlight-tour docs",
+    "docs": "yarn workspace @blackbullion/react-native-spotlight-tour docs",
     "ios": "yarn workspace example ios",
     "lint": "eslint .",
     "release": "turbo release --concurrency=1",
