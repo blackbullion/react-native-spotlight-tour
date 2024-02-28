@@ -123,8 +123,8 @@ export const TourOverlay = forwardRef<TourOverlayRef, TourOverlayProps>((props, 
 
     if ([height, width].every(value => value > 0)) {
       Animated.timing(tooltipOpacity.current, {
-        delay: 400,
-        duration: 400,
+        delay: 350,
+        duration: 250,
         toValue: 1,
         useNativeDriver,
       })
@@ -137,7 +137,7 @@ export const TourOverlay = forwardRef<TourOverlayRef, TourOverlayProps>((props, 
       return new Promise(resolve => {
         if (current !== undefined) {
           Animated.timing(tooltipOpacity.current, {
-            duration: 400,
+            duration: 200,
             toValue: 0,
             useNativeDriver,
           })
