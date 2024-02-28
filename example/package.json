@@ -18,12 +18,12 @@
   },
   "packageManager": "yarn@3.6.3",
   "dependencies": {
+    "@blackbullion/react-native-spotlight-tour": "workspace:^",
     "@cometlib/dedent": "^0.8.0-es.10",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "react-native": "0.72.4",
-    "react-native-spotlight-tour": "workspace:^",
     "react-native-svg": "^13.14.0",
     "react-native-web": "^0.19.9",
     "styled-components": "^6.0.8"

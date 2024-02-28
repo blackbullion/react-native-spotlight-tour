@@ -1,8 +1,8 @@
 {
-  "name": "react-native-spotlight-tour",
+  "name": "@blackbullion/react-native-spotlight-tour",
   "version": "0.0.0",
   "description": "React Native library to implement a highly customizable app tour feature with an awesome spotlight effect",
-  "repository": "git@github.com:stackbuilders/react-native-spotlight-tour.git",
+  "repository": "git@github.com:blackbullion/react-native-spotlight-tour.git",
   "homepage": "https://stackbuilders.github.io/react-native-spotlight-tour/",
   "bugs": "https://github.com/stackbuilders/react-native-spotlight-tour/issues",
   "author": "Stack Builders <info@stackbuilders.com> (https://github.com/stackbuilders)",
